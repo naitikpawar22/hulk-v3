@@ -1,0 +1,8 @@
+__pycache__
+win_bin/
+hulk.bat
+GuiHulk/
+.venv/
+.vscode/
+build/
+node_modules/
